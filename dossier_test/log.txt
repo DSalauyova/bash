@@ -1,0 +1,7 @@
+Créez un nouveau fichier log.txt et ajoutez-y plusieurs lignes de texte.
+Utilisez cat pour afficher le contenu de log.txt.
+Affichez uniquement les premières 5 lignes de log.txt avec head.
+Affichez les dernières 3 lignes de log.txt avec tail.
+Utilisez grep pour trouver et afficher toutes les lignes de log.txt 
+Combinez cat, grep, et | pour filtrer et afficher uniquement les lignes contenant "erreur" sans utiliser grep directement sur le fichier.
+

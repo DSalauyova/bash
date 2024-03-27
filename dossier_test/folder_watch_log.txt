@@ -1,0 +1,5 @@
+2024-03-26 13:55:46 - 1 - Изменение обнаружено в test
+2024-03-26 13:56:12 -  - Изменение обнаружено в test
+2024-03-26 13:56:53 -  - Изменение обнаружено в test
+2024-03-26 13:58:55 - /Users/admin/Dasha/bash_pratique/dossier_test/test/test1.txt - Изменение обнаружено в test
+2024-03-26 13:59:20 - /Users/admin/Dasha/bash_pratique/dossier_test/test/test1.txt - Изменение обнаружено в test
